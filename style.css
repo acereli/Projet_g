@@ -12,7 +12,7 @@
 
 body {
     height: 100vh;
-    background: url(../Dev.Web/img/background.jpg) no-repeat center / cover;
+    background: url(img/background.jpg) no-repeat center / cover;
     padding: 50px 5%;
 }
 
